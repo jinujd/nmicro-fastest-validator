@@ -1,0 +1,31 @@
+{
+  "name": "nmicro-fastest-validator",
+  "version": "1.0.0",
+  "description": "Validation adapter for nmicro which uses the library fastest-validator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinujd/nmicro-fastest-validator.git"
+  },
+  "keywords": [
+    "nmicro",
+    "nmicro-router",
+    "fastest-validator",
+    "request-validation",
+    "express",
+    "express-request-validator"
+  ],
+  "author": "Jinu Joseph Daniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinujd/nmicro-fastest-validator/issues"
+  },
+  "homepage": "https://github.com/jinujd/nmicro-fastest-validator#readme",
+  "dependencies": {
+    "fastest-validator": "^1.17.0"
+  }
+}
